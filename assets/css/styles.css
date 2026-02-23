@@ -16791,3 +16791,13 @@ ul {
   background-color: var(--bs-white);
 
 }/*# sourceMappingURL=styles.css.map */
+
+/* custom css */
+
+.success-circle {
+  width: 120px;
+  height: 120px;
+  background-color: #487cf7; /* Your brand navy */
+  border-radius: 50%;
+}
+
