@@ -16448,6 +16448,13 @@ textarea.form-control-lg {
   margin-inline-end: 5px;
 }
 
+.success-circle {
+  width: 120px;
+  height: 120px;
+  background-color: #487cf7; /* Your brand navy */
+  border-radius: 50%;
+}
+
 .banner-section::before {
   content: "";
   position: absolute;
@@ -16792,12 +16799,5 @@ ul {
 
 }/*# sourceMappingURL=styles.css.map */
 
-/* custom css */
 
-.success-circle {
-  width: 120px;
-  height: 120px;
-  background-color: #487cf7; /* Your brand navy */
-  border-radius: 50%;
-}
 
